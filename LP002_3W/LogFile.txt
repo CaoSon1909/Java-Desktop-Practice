@@ -1,0 +1,5 @@
+-----------------------------Logger---------------------------------------------
+
+Main Form - checkRegexDefense() :java.lang.NumberFormatException: For input string: "aaaa"
+
+Main Form - checkRegexDefense() :java.lang.NumberFormatException: For input string: "qew"
